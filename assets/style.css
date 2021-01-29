@@ -1,5 +1,5 @@
 body {
-  background-color: purple;
+  background-color: #efeee7;
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #333333;
   margin: 0;
@@ -8,15 +8,24 @@ body {
 
 header {
   background-color: #333333;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 30px;
+  padding: 5px;
 }
 
 h1 {
   color: #eee;
   font-size: 28px;
+  text-align: center;
 }
 
 h2 {
   font-size: 24px;
+}
+
+p {
+  margin-top: 30px;
 }
 
 .container {
